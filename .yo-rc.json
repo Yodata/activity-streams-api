@@ -3,7 +3,7 @@
     "importExistingSpec": false,
     "name": "Yodata Activity Streams",
     "repo": "Yodata/activity-streams-api",
-    "splitSpec": true,
+    "splitSpec": false,
     "samples": true,
     "installSwaggerUI": true
   }
